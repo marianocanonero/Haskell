@@ -1,5 +1,5 @@
 # Haskell
-Haskell scripts for Algebra Programming Workshop
+Haskell scripts from Algebra Programming Workshop
 
 ## Table of Content
 - **TP1 - Conjetura de Goldbach**
