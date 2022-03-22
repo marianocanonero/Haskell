@@ -1,5 +1,5 @@
 # Haskell
-Haskell scripts from Algebra Programming Workshop
+Scripts de Haskell elaborados para la cursada del Taller de Algebra (FCEyN-UBA-2021)
 
 ## Table of Content
 - **TP1 - Conjetura de Goldbach**
